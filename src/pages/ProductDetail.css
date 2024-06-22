@@ -1,0 +1,38 @@
+.product-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+  }
+  
+  .product-page img {
+    
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .product-page h1 {
+    font-size: 2em;
+  }
+  
+  .product-page p {
+    margin-bottom: 20px;
+  }
+  
+  .product-page button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  .product-page button:hover {
+    background-color: #0056b3;
+  }

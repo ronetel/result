@@ -1,6 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import './components/Header.css';
+import './components/ProductCard.css';
+import './pages/Catalog.css';
+import './pages/Home.css';
+import './pages/Favorites.css';
+import './pages/Cart.css';
+import './components/Footer.css';
+import './pages/Order.css';
+import './pages/ProductDetail.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 

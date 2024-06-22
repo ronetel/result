@@ -1,0 +1,32 @@
+.cart-summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+  }
+  
+  .total-price {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .cart-buttons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .cart-buttons button {
+    margin-right: 10px;
+  }
+  .empty-message {
+    height: 30vw;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+.z{
+    height: 35vw;
+}
+  
