@@ -105,34 +105,8 @@
       "image": "https://genshindrop.com/storage/cover/3280-600-kristallov-1675589200.webp"
     }
   ],
-  "favorites": [
-    {
-      "id": "4",
-      "name": "Жемчужный гимн",
-      "category": "Боевой пропуск",
-      "description": "Одноразовая покупка боевого пропуска Жемчужный гимн",
-      "price": 899,
-      "image": "https://tulen.store/storage/thumbs/160x160_fit/rTJvgAmbIUrjmzugbc3wBnjzrKrEruYJDub351Bt.jpg"
-    },
-    {
-      "id": "4",
-      "name": "Жемчужный гимн",
-      "category": "Боевой пропуск",
-      "description": "Одноразовая покупка боевого пропуска Жемчужный гимн",
-      "price": 899,
-      "image": "https://tulen.store/storage/thumbs/160x160_fit/rTJvgAmbIUrjmzugbc3wBnjzrKrEruYJDub351Bt.jpg"
-    }
-  ],
-  "cart": [
-    {
-      "id": "4",
-      "name": "Жемчужный гимн",
-      "category": "Боевой пропуск",
-      "description": "Одноразовая покупка боевого пропуска Жемчужный гимн",
-      "price": 899,
-      "image": "https://tulen.store/storage/thumbs/160x160_fit/rTJvgAmbIUrjmzugbc3wBnjzrKrEruYJDub351Bt.jpg"
-    }
-  ],
+  "favorites": [],
+  "cart": [],
   "order": [
     {
       "id": "dcf3"
@@ -814,7 +788,7 @@
           "category": "Крутки",
           "description": "10 круток Genshin Impact. Х2 на набор не действует! Это пак 980+110 + 300+30 и несколько по 60.",
           "price": 1792,
-          "image": "https://genshindrop.com/storage/cover/percatka-klorindy-10-krutok-1717579455.webp"
+          "image": "https://genshindrop.com/storage/cover/stikery-sidzvin-10-krutok-1719336887.webp"
         },
         {
           "id": "10",
@@ -864,6 +838,72 @@
         }
       ],
       "total": 899
+    },
+    {
+      "id": "d097",
+      "items": [
+        {
+          "id": "4",
+          "name": "Жемчужный гимн",
+          "category": "Боевой пропуск",
+          "description": "Одноразовая покупка боевого пропуска Жемчужный гимн",
+          "price": 899,
+          "image": "https://tulen.store/storage/thumbs/160x160_fit/rTJvgAmbIUrjmzugbc3wBnjzrKrEruYJDub351Bt.jpg"
+        },
+        {
+          "id": "3",
+          "name": "3 Благословения полой луны",
+          "category": "Блогословления полой луны",
+          "description": "Одноразовая покупка боевого пропуска Гимн Гностический",
+          "price": 1155,
+          "image": "https://genshindrop.com/storage/cover/3-blagosloveniya-poloi-luny-1675591980.webp"
+        }
+      ],
+      "total": 2054
+    },
+    {
+      "id": "0435",
+      "items": [
+        {
+          "id": "4",
+          "name": "Жемчужный гимн",
+          "category": "Боевой пропуск",
+          "description": "Одноразовая покупка боевого пропуска Жемчужный гимн",
+          "price": 899,
+          "image": "https://tulen.store/storage/thumbs/160x160_fit/rTJvgAmbIUrjmzugbc3wBnjzrKrEruYJDub351Bt.jpg"
+        },
+        {
+          "id": "3",
+          "name": "3 Благословения полой луны",
+          "category": "Блогословления полой луны",
+          "description": "Одноразовая покупка боевого пропуска Гимн Гностический",
+          "price": 1155,
+          "image": "https://genshindrop.com/storage/cover/3-blagosloveniya-poloi-luny-1675591980.webp"
+        }
+      ],
+      "total": 2054
+    },
+    {
+      "id": "6729",
+      "items": [
+        {
+          "id": "4",
+          "name": "Жемчужный гимн",
+          "category": "Боевой пропуск",
+          "description": "Одноразовая покупка боевого пропуска Жемчужный гимн",
+          "price": 899,
+          "image": "https://tulen.store/storage/thumbs/160x160_fit/rTJvgAmbIUrjmzugbc3wBnjzrKrEruYJDub351Bt.jpg"
+        },
+        {
+          "id": "3",
+          "name": "3 Благословения полой луны",
+          "category": "Блогословления полой луны",
+          "description": "Одноразовая покупка боевого пропуска Гимн Гностический",
+          "price": 1155,
+          "image": "https://genshindrop.com/storage/cover/3-blagosloveniya-poloi-luny-1675591980.webp"
+        }
+      ],
+      "total": 2054
     }
   ]
 }
